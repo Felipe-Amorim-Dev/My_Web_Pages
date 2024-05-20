@@ -15,7 +15,7 @@
 
 <p>Página em homenagem ao Japão, com os temas, cultura, arte, culinária e arquitetura</p>
 
-<h3>LINK: <a href="japanjourney.netlify.app">Japan Journey</a></h3>
+<h3>LINK: <a href="https://japanjourney.netlify.app">Japan Journey</a></h3>
 
 
 
