@@ -19,7 +19,7 @@
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/44a5667b-d78c-43a0-9240-d0d248c2d700/deploy-status)](https://app.netlify.com/sites/japanjourney/deploys)
 
-<h3>LINK: <a href="japanjourney.netlify.app">Japan Journey</a></h3>
+<h3>LINK: <a href="https://japanjourney.netlify.app">Japan Journey</a></h3>
 
 
 
