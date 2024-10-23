@@ -15,7 +15,7 @@
 
 <p>Página em homenagem ao Japão, com os temas, cultura, arte, culinária e arquitetura</p>
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/1708ef65-73de-4fec-9950-51f422199820/deploy-status)](https://app.netlify.com/sites/japanjourney/deploys)
+<p>Página foi desenvolvida utilizando o método de Lazy Loading.</p>
 
 <h3>LINK: <a href="japanjourney.netlify.app">Japan Journey</a></h3>
 
